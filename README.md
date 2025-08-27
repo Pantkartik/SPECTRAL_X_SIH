@@ -12,6 +12,10 @@ TECH STACK :
 
 
 
+# AI 
+1. AI SYMPTOM PREDICTOR (in work)
+
+
 1. Kartik Pant(Front-end, Backend )
 
 3. Absar Alam ( Database)
