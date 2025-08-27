@@ -3,6 +3,6 @@
 
 
 
-
+1. Kartik Pant(Front-end, Backend )
 
 3. Absar Alam ( Database)
