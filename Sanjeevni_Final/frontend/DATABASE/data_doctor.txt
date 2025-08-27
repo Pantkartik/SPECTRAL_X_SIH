@@ -1,0 +1,85 @@
+Name,Specialization,Consultation Fee (₹),Hospital/Clinic Name,City,Address,Phone Number,Rating,Experience
+Dr. Rajiv Gupta,General Physician, Diabetologist,400,Gupta Clinic & Diabetes Care,Nabha,Main Bazaar,+91 98765 43210,4.3,15
+Dr. Simranjeet Kaur,General Physician, Pediatrician,300,City Care Hospital,Nabha,Model Town Road,+91 98765 43211,4.5,12
+Dr. Alok Jain,General Medicine,500,Jain Nursing Home,Nabha,Opposite Bus Stand,+91 98765 43212,4.2,18
+Dr. Harsh Sharma,General Physician,250,Sharma Clinic,Nabha,GTB Nagar,+91 98765 43213,4.1,8
+Dr. Priya Mehta,General Physician, Cardiologist,600,Prime Heart Institute,Nabha,Civil Lines,+91 98765 43214,4.7,20
+Dr. Sandeep Singh,General Physician,200,Singh Medical Centre,Nabha,New Grain Market,+91 98765 43215,4,10
+Dr. Anil Kumar,General Medicine, Chest Specialist,450,Life Line Hospital,Nabha,Railway Road,+91 98765 43216,4.4,16
+Dr. Kavita Rani,General Physician, Gynecologist,350,Women's Wellness Clinic,Nabha,Urban Estate,+91 98765 43217,4.6,14
+Dr. Vishal Aggarwal,General Physician,300,Aggarwal Clinic,Nabha,Bhadson Road,+91 98765 43218,4.1,9
+Dr. Balwinder Singh,General Medicine,400,Guru Nanak Medical Centre,Nabha,Patiala Road,+91 98765 43219,4.3,11
+Dr. Rakesh Kumar,General Medicine,450,City Hospital,Nabha,Nabha Gate,+91 98765 43220,4.3,14
+Dr. Sunita Devi,General Physician,280,Devi Clinic,Nabha,Punjabi Bagh,+91 98765 43221,4.1,8
+Dr. Vikram Singh,General Physician, Orthopedic,500,Singh Ortho Care,Nabha,Railway Road,+91 98765 43222,4.5,16
+Dr. Meena Sharma,General Medicine,320,Sharma Medical Centre,Nabha,Model Town,+91 98765 43223,4.2,10
+Dr. Ajay Malhotra,General Physician, Neurologist,650,Malhotra Neuro Centre,Nabha,Civil Lines,+91 98765 43224,4.7,19
+Dr. Rajesh Kumar,General Medicine,400,Kumar Nursing Home,Nabha,GTB Nagar,+91 98765 43225,4.3,13
+Dr. Sunil Kapoor,General Physician,350,Kapoor Clinic,Nabha,Urban Estate,+91 98765 43226,4.1,9
+Dr. Anuradha Singh,General Physician, Gynecologist,420,Women's Hospital,Nabha,Patiala Road,+91 98765 43227,4.6,15
+Dr. Mohan Lal,General Medicine,380,Lal Clinic,Nabha,Bassi Pathana Road,+91 98765 43228,4.2,11
+Dr. Seema Rani,General Physician,290,Rani Medical Centre,Nabha,Dhuri Line,+91 98765 43229,4,8
+Dr. Amit Sharma,General Physician, Pediatrician,410,Child Care Hospital,Nabha,Singh Colony,+91 98765 43230,4.4,14
+Dr. Neelam Devi,General Medicine,330,Devi Nursing Home,Nabha,Bajwa Colony,+91 98765 43231,4.1,10
+Dr. Ravi Kant,General Physician,360,Kant Clinic,Nabha,Green Avenue,+91 98765 43232,4.3,12
+Dr. Sunita Rani,General Physician, Dermatologist,520,Skin Care Centre,Nabha,Nabha Gate,+91 98765 43233,4.5,16
+Dr. Vijay Kumar,General Medicine,440,Vijay Hospital,Nabha,Punjabi Bagh,+91 98765 43234,4.2,13
+Dr. Anju Sharma,General Physician,310,Sharma Clinic,Patiala,Railway Road,+91 98765 43235,4,9
+Dr. Sanjeev Kumar,General Physician, Cardiologist,580,Heart Care Centre,Patiala,Civil Lines,+91 98765 43236,4.7,18
+Dr. Preeti Singh,General Medicine,390,Singh Clinic,Patiala,Main Bazaar,+91 98765 43237,4.3,11
+Dr. Rajendra Prasad,General Physician,340,Prasad Medical Centre,Patiala,GTB Nagar,+91 98765 43238,4.1,10
+Dr. Sunil Sharma,General Medicine,370,Sharma Hospital,Patiala,Urban Estate,+91 98765 43239,4.2,12
+Dr. Anamika Singh,General Physician, Pediatrician,430,Child Health Centre,Patiala,Patiala Road,+91 98765 43240,4.5,15
+Dr. Rakesh Sharma,General Medicine,460,Sharma Nursing Home,Patiala,Bassi Pathana Road,+91 98765 43241,4.3,14
+Dr. Priyanka Gupta,General Physician,320,Gupta Medical Centre,Patiala,Dhuri Line,+91 98765 43242,4,8
+Dr. Manoj Kumar,General Physician, Orthopedic,510,Ortho Care Hospital,Patiala,Singh Colony,+91 98765 43243,4.6,17
+Dr. Sunita Devi,General Medicine,350,Devi Clinic,Patiala,Bajwa Colony,+91 98765 43244,4.1,9
+Dr. Rajiv Malhotra,General Physician,380,Malhotra Clinic,Patiala,Green Avenue,+91 98765 43245,4.2,11
+Dr. Anjali Kapoor,General Medicine, Gynecologist,440,Women's Health Centre,Patiala,Nabha Gate,+91 98765 43246,4.5,16
+Dr. Vikas Kumar,General Physician,330,Kumar Clinic,Patiala,Punjabi Bagh,+91 98765 43247,4,10
+Dr. Sunil Rana,General Medicine,410,Rana Hospital,Patiala,Railway Road,+91 98765 43248,4.3,13
+Dr. Priya Singh,General Physician, Dermatologist,540,Skin Treatment Centre,Patiala,Civil Lines,+91 98765 43249,4.6,15
+Dr. Rajesh Sharma,General Medicine,390,Sharma Clinic,Patiala,Main Bazaar,+91 98765 43250,4.2,12
+Dr. Anurag Gupta,General Physician,360,Gupta Medical House,Patiala,GTB Nagar,+91 98765 43251,4.1,11
+Dr. Sunita Malhotra,General Medicine,430,Malhotra Nursing Home,Patiala,Urban Estate,+91 98765 43252,4.4,14
+Dr. Ravi Kumar,General Physician, Pediatrician,450,Child Specialist Centre,Patiala,Patiala Road,+91 98765 43253,4.5,16
+Dr. Neha Sharma,General Medicine,380,Sharma Clinic,Sangrur,Main Bazaar,+91 98765 43254,4.2,12
+Dr. Rajiv Verma,General Physician,320,Verma Medical Centre,Sangrur,GTB Nagar,+91 98765 43255,4.1,9
+Dr. Sunil Kapoor,General Medicine,410,Kapoor Hospital,Sangrur,Urban Estate,+91 98765 43256,4.3,13
+Dr. Priya Singh,General Physician, Gynecologist,460,Women's Care Hospital,Sangrur,Patiala Road,+91 98765 43257,4.6,15
+Dr. Amit Kumar,General Medicine,340,Kumar Clinic,Sangrur,Bassi Pathana Road,+91 98765 43258,4,10
+Dr. Sunita Devi,General Physician,370,Devi Nursing Home,Sangrur,Dhuri Line,+91 98765 43259,4.2,11
+Dr. Rajesh Malhotra,General Medicine,420,Malhotra Medical Centre,Sangrur,Singh Colony,+91 98765 43260,4.4,14
+Dr. Anjali Sharma,General Physician,350,Sharma Clinic,Sangrur,Bajwa Colony,+91 98765 43261,4.1,9
+Dr. Vikram Singh,General Medicine, Orthopedic,520,Singh Ortho Care,Sangrur,Green Avenue,+91 98765 43262,4.5,16
+Dr. Neelam Kumar,General Physician,390,Kumar Hospital,Sangrur,Nabha Gate,+91 98765 43263,4.3,12
+Dr. Sunil Rana,General Medicine,440,Rana Clinic,Sangrur,Punjabi Bagh,+91 98765 43264,4.2,13
+Dr. Priyanka Gupta,General Physician, Dermatologist,560,Skin Care Centre,Sangrur,Railway Road,+91 98765 43265,4.7,17
+Dr. Rajiv Sharma,General Medicine,400,Sharma Nursing Home,Sangrur,Civil Lines,+91 98765 43266,4.4,14
+Dr. Anurag Singh,General Physician,360,Singh Clinic,Sangrur,Main Bazaar,+91 98765 43267,4.1,10
+Dr. Sunita Kapoor,General Medicine,430,Kapoor Medical Centre,Sangrur,GTB Nagar,+91 98765 43268,4.3,13
+Dr. Vikas Kumar,General Physician, Pediatrician,470,Child Health Hospital,Sangrur,Urban Estate,+91 98765 43269,4.6,15
+Dr. Neha Gupta,General Medicine,380,Gupta Clinic,Rajpura,Main Bazaar,+91 98765 43270,4.2,11
+Dr. Rajiv Malhotra,General Physician,330,Malhotra Medical Centre,Rajpura,GTB Nagar,+91 98765 43271,4.1,8
+Dr. Sunil Sharma,General Medicine,420,Sharma Hospital,Rajpura,Urban Estate,+91 98765 43272,4.3,12
+Dr. Priya Singh,General Physician, Gynecologist,480,Women's Wellness Centre,Rajpura,Patiala Road,+91 98765 43273,4.7,16
+Dr. Amit Kumar,General Medicine,350,Kumar Clinic,Rajpura,Bassi Pathana Road,+91 98765 43274,4,9
+Dr. Sunita Devi,General Physician,390,Devi Nursing Home,Rajpura,Dhuri Line,+91 98765 43275,4.2,10
+Dr. Rajesh Kapoor,General Medicine,440,Kapoor Medical Centre,Rajpura,Singh Colony,+91 98765 43276,4.4,13
+Dr. Anjali Sharma,General Physician,370,Sharma Clinic,Rajpura,Bajwa Colony,+91 98765 43277,4.1,8
+Dr. Vikram Singh,General Medicine, Orthopedic,530,Singh Ortho Care,Rajpura,Green Avenue,+91 98765 43278,4.6,15
+Dr. Neelam Kumar,General Physician,400,Kumar Hospital,Rajpura,Nabha Gate,+91 98765 43279,4.3,11
+Dr. Sunil Rana,General Medicine,450,Rana Clinic,Rajpura,Punjabi Bagh,+91 98765 43280,4.2,12
+Dr. Priyanka Gupta,General Physician, Dermatologist,570,Skin Treatment Centre,Rajpura,Railway Road,+91 98765 43281,4.7,16
+Dr. Rajiv Sharma,General Medicine,410,Sharma Nursing Home,Rajpura,Civil Lines,+91 98765 43282,4.4,13
+Dr. Anurag Singh,General Physician,380,Singh Clinic,Rajpura,Main Bazaar,+91 98765 43283,4.1,9
+Dr. Sunita Kapoor,General Medicine,440,Kapoor Medical Centre,Rajpura,GTB Nagar,+91 98765 43284,4.3,12
+Dr. Vikas Kumar,General Physician, Pediatrician,490,Child Care Hospital,Rajpura,Urban Estate,+91 98765 43285,4.6,14
+Dr. Neha Gupta,General Medicine,390,Gupta Clinic,Samana,Main Bazaar,+91 98765 43286,4.2,10
+Dr. Rajiv Malhotra,General Physician,340,Malhotra Medical Centre,Samana,GTB Nagar,+91 98765 43287,4.1,7
+Dr. Sunil Sharma,General Medicine,430,Sharma Hospital,Samana,Urban Estate,+91 98765 43288,4.3,11
+Dr. Priya Singh,General Physician, Gynecologist,490,Women's Health Centre,Samana,Patiala Road,+91 98765 43289,4.7,15
+Dr. Amit Kumar,General Medicine,360,Kumar Clinic,Samana,Bassi Pathana Road,+91 98765 43290,4,8
+Dr. Sunita Devi,General Physician,400,Devi Nursing Home,Samana,Dhuri Line,+91 98765 43291,4.2,9
+Dr. Rajesh Kapoor,General Medicine,450,Kapoor Medical Centre,Samana,Singh Colony,+91 98765 43292,4.4,12
+Dr. Anjali Sharma,General Physician,380,Sharma Clinic,Samana,Bajwa Colony,+91 98765 43293,4
